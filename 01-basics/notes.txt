@@ -1,0 +1,3 @@
+I am learning Python.
+Next, I will build APIs.
+I am building Python projects.
