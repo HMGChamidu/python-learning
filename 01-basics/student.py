@@ -9,6 +9,7 @@ class student:
 
     def change_course(self, new_course):
         self.course = new_course
+        
     def change_name(self, new_name):
         self.name = new_name
 
@@ -19,7 +20,7 @@ student1.show_details()
 student1.change_name("Alex")
 student1.show_details()
 
-student1.change_course("Computer Science")
+student1.change_course("Software Engineering")
 
 print("\nAfter changing the course:")
 student1.show_details()
